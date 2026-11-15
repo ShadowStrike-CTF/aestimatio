@@ -1,6 +1,6 @@
 # Aestimatio
 
-Legal merits analysis and claim assessment — Disciplina. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/aestimatio
 
